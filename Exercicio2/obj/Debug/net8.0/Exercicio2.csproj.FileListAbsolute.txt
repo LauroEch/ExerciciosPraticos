@@ -1,0 +1,14 @@
+E:\WorkSpace\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+E:\WorkSpace\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+E:\WorkSpace\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+E:\WorkSpace\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+E:\WorkSpace\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+E:\WorkSpace\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll

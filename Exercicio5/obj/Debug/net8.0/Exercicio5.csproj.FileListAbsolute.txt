@@ -1,0 +1,14 @@
+E:\WorkSpace\Exercicio5\bin\Debug\net8.0\Exercicio5.exe
+E:\WorkSpace\Exercicio5\bin\Debug\net8.0\Exercicio5.deps.json
+E:\WorkSpace\Exercicio5\bin\Debug\net8.0\Exercicio5.runtimeconfig.json
+E:\WorkSpace\Exercicio5\bin\Debug\net8.0\Exercicio5.dll
+E:\WorkSpace\Exercicio5\bin\Debug\net8.0\Exercicio5.pdb
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfoInputs.cache
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\Exercicio5.AssemblyInfo.cs
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\Exercicio5.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\Exercicio5.dll
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\refint\Exercicio5.dll
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\Exercicio5.pdb
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\Exercicio5.genruntimeconfig.cache
+E:\WorkSpace\Exercicio5\obj\Debug\net8.0\ref\Exercicio5.dll
