@@ -1,0 +1,2 @@
+# ExerciciosPraticos
+Exercícios sobre c#.
